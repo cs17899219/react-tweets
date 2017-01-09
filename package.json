@@ -12,19 +12,20 @@
   "author": "Ken Wheeler",
   "license": "MIT",
   "dependencies": {
-    "express": "~4.9.7",
-    "express-handlebars": "~1.1.0",
+    "express": "~4.14.0",
+    "express-handlebars": "~3.0.0",
     "mongoose": "^4.2.6",
-    "node-jsx": "~0.12.4",
-    "react": "~0.14.6",
+    "node-jsx": "~0.13.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "socket.io": "^1.1.0",
     "twitter": "^1.2.0"
   },
   "devDependencies": {
-    "browserify": "~6.0.3",
+    "browserify": "~13.3.0",
     "nodemon": "^1.2.1",
     "reactify": "~1.1.1",
-    "uglify-js": "~2.4.15",
+    "uglify-js": "~2.7.5",
     "watchify": "^3.1.1"
   },
   "browserify": {
